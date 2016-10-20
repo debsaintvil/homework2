@@ -120,40 +120,19 @@ namespace ConsoleApplication
         public static void CreateAccount()
         {
             //first get the account number
-            string yes = "Yes";
-            string no = "No";
-            var response;
-            int compare = 0;
+            // string yes = "Yes";
+            // string no = "No";
+            // var response;
+            // int compare = 0;
 
-            Console.WriteLine("Create Account Number " + AccountNumber + "? Yes/No");
-            response = Console.ReadLine();
+            Console.WriteLine("Create Account Number " + AccountNumber + ".");
+            // response = Console.ReadLine();
             
-            if(compare(yes, response bool ignoreCase) == 1)
-            {
+            // if(compare(yes, response bool ignoreCase) == 1)
+            // {
 
-            }
+            // }
 
-            if(Compai)
-
-            public static string mmm;
-            int chc = 0;
-            int subtraction = 0;
-            string ggg;
-
-            if(mmm == "Yes")
-            {
-
-            }
-
-            do
-            {
-                 Console.WriteLine("Please choose the account to withdraw funds from.");
-
-                 mmm = Console.ReadLine();
-
-                 chc = Convert.ToInt32(mmm); 
-            }
-            while( (chc < 1) || (chc > 25 ) );
 
                 Console.WriteLine("What is customer name?");  
                 accounts[AccountNumber].CustomerName = Console.ReadLine(); 
@@ -350,6 +329,11 @@ namespace ConsoleApplication
                  
                        
                         
+                            
+
+                            //function to DEPOSIT FUNDS
+
+                            //function to WITHDRAW FUNDS
 
                 
 
